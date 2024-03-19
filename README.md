@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I'm planing to add more visual to the project in the future such as food and beverage pictures for the menu section. I'm also planning to add a location section with a map. 
